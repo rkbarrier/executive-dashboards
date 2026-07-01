@@ -115,10 +115,12 @@ Executive Reporting        █████████████████�
 
 ## Power BI Executive Dashboard
 
-![Power BI Executive Dashboard](images/PowerBI-Executive-Dashboard.png)
+<img width="1536" height="1024" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/423b5cc6-c74e-4300-aae3-55416dcc3c56" />
+
 
 ---
 
 ## Tableau Executive Dashboard
 
-![Tableau Executive Dashboard](images/Tableau-Executive-Dashboard.png)
+<img width="1536" height="1024" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/46282ad6-6fd7-4e66-81af-c9cc0b03ec41" />
+
