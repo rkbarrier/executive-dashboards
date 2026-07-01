@@ -108,3 +108,17 @@ Executive Reporting        █████████████████�
 * Performance Metrics
 * Executive Communication
 * Data Visualization Concepts
+
+---
+
+# Dashboard Mockups
+
+## Power BI Executive Dashboard
+
+![Power BI Executive Dashboard](images/PowerBI-Executive-Dashboard.png)
+
+---
+
+## Tableau Executive Dashboard
+
+![Tableau Executive Dashboard](images/Tableau-Executive-Dashboard.png)
