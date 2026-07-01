@@ -110,8 +110,22 @@ Executive Reporting        █████████████████�
 * Data Visualization Concepts
 
 ---
+KPI,Target,Current,Status
+Business Continuity Plans Completed,100%,98%,On Track
+Disaster Recovery Plans Reviewed,100%,100%,On Track
+Recovery Exercises Completed,95%,96%,Exceeded
+Critical Applications with Current BIA,100%,99%,On Track
+High-Risk Findings Remediated,90%,94%,Exceeded
+Executive Reports Delivered On Time,100%,100%,On Track
+Operational Readiness,95%,92%,Monitor
+Technology Resiliency,95%,96%,On Track
 
 # Dashboard Mockups
+
+├── Technology-Resiliency-Executive-Dashboard.md
+[Technology_Resiliency_Dashboard_Data.xlsx](https://github.com/user-attachments/files/29569568/Technology_Resiliency_Dashboard_Data.xlsx)
+[dashboard-kpis.csv](https://github.com/user-attachments/files/29569502/dashboard-kpis.csv)
+
 
 ## Power BI Executive Dashboard
 
@@ -123,4 +137,3 @@ Executive Reporting        █████████████████�
 ## Tableau Executive Dashboard
 
 <img width="1536" height="1024" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/46282ad6-6fd7-4e66-81af-c9cc0b03ec41" />
-
